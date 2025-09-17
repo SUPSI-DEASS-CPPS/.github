@@ -1,6 +1,6 @@
-# Centro competenze pratiche e politiche sanitarie (CPPS)
+# Competence Centre for Healthcare Practices and Policies (CPPS)
 
-Welcome to the official GitHub repository of the **Centro competenze pratiche e politiche sanitarie (CPPS)**, part of the Department of Business Economics, Health and Social Care at SUPSI (University of Applied Sciences and Arts of Southern Switzerland).
+Welcome to the official GitHub repository of the **Competence Centre for Healthcare Practices and Policies (CPPS)**, part of the Department of Business Economics, Health and Social Care at the University of Applied Sciences and Arts of Southern Switzerland (SUPSI).
 
 ## 🧭 About Us
 
