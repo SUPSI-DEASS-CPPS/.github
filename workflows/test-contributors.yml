@@ -1,0 +1,23 @@
+name: Test Contributors API
+
+on:
+  workflow_dispatch:   # run manually from the Actions tab
+
+permissions:
+  contents: read   # only need read access for this test
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests pyyaml
+
+      - name: Run contributor fetch
+        run: |
+          python .github/scripts/test_contributors.py
