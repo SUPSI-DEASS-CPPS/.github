@@ -31,8 +31,6 @@ This repository hosts research outputs, project documentation, data tools, and c
 
 ## 👥 Contributors
 
-## 👥 Contributors
-
 | Name               | Role                          | GitHub Profile                                      |
 |--------------------|-------------------------------|-----------------------------------------------------|
 | Salvatore Maione   | Statistician                  | [@salvatoremaione](https://github.com/salvatoremaione) |
