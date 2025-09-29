@@ -31,11 +31,10 @@ This repository hosts research outputs, project documentation, data tools, and c
 
 ## 👥 Contributors
 
-| Name               | Role                          | GitHub Profile                                      |
-|--------------------|-------------------------------|-----------------------------------------------------|
-| Salvatore Maione   | Statistician                  | [@salvatoremaione](https://github.com/salvatoremaione) |
-| Igor Francetic     | Health Economist              | [@igorfrancetic](https://github.com/igorfrancetic)     |
-| Ludovica Alesci    | Research Assistant            | [@ludovica-alesci](https://github.com/ludovica-alesci) |
+## 👥 Contributors
+
+<!-- CONTRIBUTORS START -->
+<!-- CONTRIBUTORS END -->
 
 > _This list is based on publicly visible contributors. If you're part of the CPPS team and would like to be added, feel free to open a pull request or contact us._
 
